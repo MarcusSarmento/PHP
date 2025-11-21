@@ -60,5 +60,9 @@
             <h4>Arredondar para baixo: </h4>
             <p> <?php echo floor($num1); ?></p>
             <br>
-    </body>
+            </body>
+
+            <h4>Potencia de um numero : </h4>
+            <p> <?php echo (pow($num1, $num2)); ?></p>
+            <br>
 </html>
