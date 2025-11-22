@@ -39,7 +39,8 @@
         <br>
         -->
         <p> <?php  echo $pedidos["Capinha de celulae"]["Loja"]; ?> </p>
-        <?php echo count($pedidos); ?>
+        <br>
+        <?php echo( count($pedidos)); ?>
     </body>
            
 </html>
